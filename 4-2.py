@@ -1,7 +1,5 @@
 inputData = input().split()
 
-num = 0
-operator = ""
 buff = []
 
 for i in inputData:
